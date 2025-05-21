@@ -4,9 +4,7 @@ Una página web simple y moderna para compartir recomendaciones de libros de for
 
 ## 🌐 Demo
 
-En proceso...
-
-<!--[Ver página en vivo](https://goog) <!-- Cambia esto al link de tu deploy (ej. Vercel, Netlify) -->
+[Ver página en vivo](https://astro-5-book-dev.vercel.app/)
 
 ## ✨ Características
 
